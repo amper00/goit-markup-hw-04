@@ -490,3 +490,11 @@ img {
   display: flex;
   gap: 40px;
 }
+
+.box {
+  width: 264px;
+  height: 112px;
+  background-color: #f4f4fd;
+  padding-bottom: 8px;
+  gap: 24px;
+}
