@@ -63,7 +63,6 @@ body {
 /* tło pod header */
 /* tło pod header */
 .hero {
-  background-size: cover;
   max-width: 1440px;
   margin: 0 auto;
   padding: 188px 0;
@@ -75,6 +74,7 @@ body {
     ),
     url(/images/people-office.jpg);
   background-position: center;
+  background-size: cover;
 }
 /* tło pod header */
 /* tło pod header */
