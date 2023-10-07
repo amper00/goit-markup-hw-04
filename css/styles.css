@@ -63,6 +63,9 @@ body {
 /* tło pod header */
 /* tło pod header */
 .hero {
+  background-size: cover;
+  max-width: 1440px;
+  margin: 0 auto;
   padding: 188px 0;
   background: var(--styl-colorrr);
   background-repeat: no-repeat;
@@ -70,8 +73,8 @@ body {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url("/goit-markup-hw-04/images/people-office.jpg");
-  background-position: 50% 50%;
+    url(/images/people-office.jpg);
+  background-position: center;
 }
 /* tło pod header */
 /* tło pod header */
