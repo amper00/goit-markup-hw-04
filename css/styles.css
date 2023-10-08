@@ -550,3 +550,18 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+.abc {
+  list-style-type: none;
+  gap: 24px;
+  display: flex;
+}
+.abcdf {
+  width: calc((100% - 120px) / 6);
+  height: 88px;
+}
+.abcd {
+  width: 100%;
+  height: 100%;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+}
