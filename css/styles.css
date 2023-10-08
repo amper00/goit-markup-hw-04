@@ -538,3 +538,14 @@ img {
 .social {
   fill: var(--background-colorr);
 }
+
+.customers {
+  font-size: 36px;
+  line-height: 1.11;
+  color: var(--styl-colorrr);
+  margin-bottom: 72;
+}
+.section_5 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
