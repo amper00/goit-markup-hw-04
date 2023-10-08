@@ -517,6 +517,8 @@ img {
   justify-content: center;
   height: 64px;
   gap: 24px;
+  width: 40px;
+  height: 40px;
 }
 .media-list {
   width: 40px;
@@ -524,6 +526,10 @@ img {
   background-color: black;
 }
 .media-listt {
+  width: 40px;
+  height: 40px;
+}
+.media li {
   width: 40px;
   height: 40px;
 }
