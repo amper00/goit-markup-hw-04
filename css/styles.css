@@ -535,3 +535,6 @@ img {
 .media-listt:focus {
   background-color: #404bbf;
 }
+.social {
+  fill: var(--background-colorr);
+}
