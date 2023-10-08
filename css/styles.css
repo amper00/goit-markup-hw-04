@@ -528,3 +528,10 @@ img {
   align-items: center;
   justify-content: center;
 }
+
+.media-listt:hover {
+  background-color: #404bbf;
+}
+.media-listt:focus {
+  background-color: #404bbf;
+}
