@@ -545,7 +545,8 @@ img {
   color: var(--styl-colorrr);
   margin-bottom: 72;
 }
-.section_5 {
+.section_new {
+  text-align: center;
   padding-top: 120px;
   padding-bottom: 120px;
 }
