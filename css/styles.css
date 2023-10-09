@@ -632,6 +632,12 @@ img {
   list-style-type: none;
   gap: 16px;
 }
+.footer-social-item {
+  width: 40px;
+}
+.footer-social-link {
+  height: 40px;
+}
 .social_footer {
   width: 40px;
   height: 40px;
