@@ -604,6 +604,7 @@ img {
   display: flex;
   align-items: baseline;
   justify-content: flex-start;
+  margin-right: 120px;
 }
 .margin {
   margin-right: 120px;
