@@ -582,3 +582,6 @@ img {
 .abcd:focus {
   color: #404bbf;
 }
+.beta {
+  fill: currentColor;
+}
