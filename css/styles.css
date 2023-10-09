@@ -604,10 +604,10 @@ img {
   display: flex;
   align-items: baseline;
   justify-content: flex-start;
-  margin-right: 120px;
 }
 .margin {
   margin-left: 15px;
+  margin-right: 120px;
 }
 .fit {
   color: var(--IRIS, #4d5ae5);
