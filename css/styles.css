@@ -11,6 +11,7 @@
   --background-colorr: #f4f4fd;
   --background-colorrr: #2e2f42;
   --button-color: #e7e9fc;
+  --section-five: #8e8f99;
 }
 .buttonn {
   cursor: pointer;
@@ -567,4 +568,11 @@ img {
   align-items: center;
   justify-content: center;
   display: flex;
+  color: var(--section-five);
+}
+.abcd:hover {
+  border-color: #404bbf;
+}
+.abcd:hover {
+  color: #404bbf;
 }
