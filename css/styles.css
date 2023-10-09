@@ -604,8 +604,6 @@ img {
   display: flex;
   align-items: baseline;
   justify-content: flex-start;
-
-  margin-right: 120px;
 }
 .margin {
   margin-right: 120px;
@@ -627,4 +625,5 @@ img {
   letter-spacing: 0.02em;
   color: var(--background-color);
   margin-bottom: 16px;
+  margin-right: 120px;
 }
