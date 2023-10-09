@@ -603,7 +603,7 @@ img {
 .div_foot {
   display: flex;
   align-items: baseline;
-  flex-direction: column;
+
   padding-left: 156px;
   margin-right: 120px;
 }
