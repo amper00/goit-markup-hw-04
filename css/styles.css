@@ -603,7 +603,21 @@ img {
 .div_foot {
   display: flex;
   align-items: baseline;
+  justify-content: flex-start;
 
-  padding-left: 156px;
   margin-right: 120px;
+}
+.margin {
+  margin-right: 120px;
+  margin-left: 15px;
+}
+.fit {
+  color: var(--IRIS, #4d5ae5);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
