@@ -621,3 +621,10 @@ img {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+.akapit {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--background-color);
+  margin-bottom: 16px;
+}
