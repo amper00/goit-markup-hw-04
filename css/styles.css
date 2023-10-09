@@ -585,3 +585,22 @@ img {
 .beta {
   fill: currentColor;
 }
+.foot {
+  padding-left: 269px;
+  color: var(--WHITE, #fff);
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+.footer-padd {
+  background-color: var(--background-colorrr);
+  padding: 100px 0;
+}
+.div_foot {
+  display: flex;
+  align-items: baseline;
+}
