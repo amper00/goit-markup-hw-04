@@ -576,3 +576,9 @@ img {
 .abcd:hover {
   color: #404bbf;
 }
+.abcd:focus {
+  border-color: #404bbf;
+}
+.abcd:focus {
+  color: #404bbf;
+}
