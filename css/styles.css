@@ -53,11 +53,17 @@ body {
   gap: 24px;
 }
 .top {
-  text-align: center;
-  letter-spacing: 0.02em;
+  width: 496px;
   color: #ffffff;
-  max-width: 496px;
-  margin-bottom: 48px;
+  text-align: center;
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+  padding-bottom: 48px;
 }
 /* tło pod header */
 /* tło pod header */
